@@ -327,7 +327,7 @@ form.sign-up-form {
   }
   .container.container.sign-up-mode:before {
     transform: translate(-50%, 100%);
-    bottom: 32%;
+    bottom: 22%;
     right: inherit;
   }
   .container.sign-up-mode .left-panel.image,
